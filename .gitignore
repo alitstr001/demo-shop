@@ -9,6 +9,9 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.allure/allure-2.8.1
+.hs_err_pid23980.log
+
 *.iws
 *.iml
 *.ipr
