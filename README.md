@@ -24,6 +24,7 @@ A professional automation testing framework using Selenium WebDriver for the Dem
 
 - ✅ **Page Object Model (POM)** & **Page Component Object Model (PCOM)**  - نمط تصميم منظم وسهل الصيانة
 - ✅ **Multi-Browser Support** - دعم متصفحات Chrome و Edge و Firefox
+- ✅ **Parallel Execution Support** 
 - ✅ **Headless Mode** - إمكانية تشغيل الاختبارات في الوضع الخفي
 - ✅ **TestNG Framework** - إطار عمل قوي لإدارة وتنظيم الاختبارات
 - ✅ **Allure Reports** - تقارير تفاعلية وجذابة للاختبارات
